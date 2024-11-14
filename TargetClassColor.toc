@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: TargetClassColor
+## Notes: Target and Focus frame nameBackground class color
+## Version: 1
+## Author: Depriest
+## DefaultState: Enabled
+
+TargetClassColor.lua
